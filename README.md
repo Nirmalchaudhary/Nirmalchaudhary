@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate web developer skilled in building
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmalchaudhary&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nirmalchaudhary&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nirmalchaudhary&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmalchaudhary&layout=compact&theme=radical)
 
 ---
