@@ -49,13 +49,6 @@ Welcome to my GitHub profile! I'm a full stack developer working across React.js
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmalchaudhary&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmalchaudhary&layout=compact&theme=radical)
-
----
-
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/nirmal-chaudhary-9a36ab230/)
 - [Portfolio](https://nirmalchaudhary.tech/)
