@@ -1,14 +1,14 @@
 # Hi, I'm Nirmal Chaudhary! 👋
 
-## 🚀 MERN Stack Web Developer | ☁️ AWS Enthusiast
+## 🚀 Full Stack Developer | 🤖 Building Toward AI Engineering
 
-Welcome to my GitHub profile! I'm a passionate web developer skilled in building full-stack applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js). I'm also exploring cloud technologies, specifically AWS, to enhance my development capabilities.
+Welcome to my GitHub profile! I'm a full stack developer working across React.js, Next.js, Node.js, and NestJS, with production database experience in MySQL and PostgreSQL. I'm currently building toward AI engineering — shipping real systems like AI job pipelines and AI-agent tooling using the Model Context Protocol (MCP), not just studying the theory.
 
-- 💻 I build responsive and scalable web applications.
-- ☁️ Currently learning AWS services like EC2, S3, and Lambda.
-- 📚 I'm always learning and exploring new technologies.
-- 🌱 I’m currently working on improving my backend and cloud skills.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 💻 I build responsive, scalable full-stack applications end to end — frontend, backend, and database.
+- 🤖 Building AI-agent tooling — including an MCP server that connects a live PostgreSQL database to AI agents.
+- ☁️ Comfortable deploying and managing services on AWS (EC2, S3).
+- 📚 Currently deepening my skills in RAG and applied AI engineering.
+- 👯 Looking to collaborate on AI-integrated full-stack projects and open-source ideas.
 
 ---
 
@@ -18,19 +18,27 @@ Welcome to my GitHub profile! I'm a passionate web developer skilled in building
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?style=flat&logo=material-ui&logoColor=white)
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-#### Databases
+#### Databases & ORM
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+#### AI & Agent Tooling
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-AI%20Integration-412991?style=flat&logo=openai&logoColor=white)
+![JSON](https://img.shields.io/badge/-Model%20Context%20Protocol%20(MCP)-4B5563?style=flat&logo=json&logoColor=white)
 
 #### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -49,10 +57,10 @@ Welcome to my GitHub profile! I'm a passionate web developer skilled in building
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/nirmal-chaudhary-9a36ab230/) 
+- [LinkedIn](https://www.linkedin.com/in/nirmal-chaudhary-9a36ab230/)
 - [Portfolio](https://nirmalchaudhary.tech/)
-- Email:nirmalchaudhary107@gmail.com
+- Email: nirmalchaudhary107@gmail.com
 
 ---
 
-“Learning never exhausts the mind.” — Leonardo da Vinci
+"Learning never exhausts the mind." — Leonardo da Vinci
